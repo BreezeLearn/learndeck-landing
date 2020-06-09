@@ -686,12 +686,12 @@ ul.compatible-list li:hover {
   }
 }
 
-.content-section-03 {
+.benefits {
   padding-bottom: 40px;
 }
 
 @media (min-width: 992px) {
-  .content-section-03 {
+  .benefits {
     padding-bottom: 112.5px;
   }
 }
@@ -1045,22 +1045,22 @@ ul.compatible-list li:hover {
 /* /////////////////////////// 
     Feature Section
 //////////////////////////// */
-.feature-section {
+.feature {
   padding: 53px 0;
   background: #192f48;
 }
 
 @media (min-width: 992px) {
-  .feature-section {
+  .feature {
     padding: 120px 0;
   }
 }
 
-.feature-section .section-title h2 {
+.feature .section-title h2 {
   color: #fff;
 }
 
-.feature-section .section-title p {
+.feature .section-title p {
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -1192,13 +1192,13 @@ ul.compatible-list li:hover {
 /* /////////////////////////// 
     Testimonial Section 
 //////////////////////////// */
-.testimonial-section {
+.testimonial {
   padding-top: 55px;
   padding-bottom: 65px;
 }
 
 @media (min-width: 992px) {
-  .testimonial-section {
+  .testimonial {
     padding-top: 130px;
     padding-bottom: 130px;
   }
