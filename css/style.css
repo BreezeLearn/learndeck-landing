@@ -71,6 +71,14 @@
   }
 }
 
+@media (min-width: 587px) {
+  .main-menu {
+    display: -webkit-box;
+    display: -ms-flexbox;
+   
+
+  }
+}
 @media (min-width: 992px) {
   .main-menu > li > a {
     font-size: 16px;
@@ -264,6 +272,7 @@
   width: 42px;
   margin-left: auto;
   margin-right: -24px;
+  padding-left: 10 !important;
 }
 
 .mobile-menu.mean-container .mean-bar .mean-expand {
