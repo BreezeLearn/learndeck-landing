@@ -71,10 +71,11 @@
   }
 }
 
-@media (min-width: 587px) {
+@media (max-width: 587px) {
   .main-menu {
     display: -webkit-box;
     display: -ms-flexbox;
+    visibility: hidden;
    
 
   }
@@ -272,7 +273,8 @@
   width: 42px;
   margin-left: auto;
   margin-right: -24px;
-  padding-left: 10 !important;
+  padding-left: 10px !important;
+  visibility: hidden;
 }
 
 .mobile-menu.mean-container .mean-bar .mean-expand {
