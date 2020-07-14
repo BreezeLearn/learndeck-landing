@@ -173,23 +173,23 @@ input[type="number"] {
 }
 
 .btn--primary {
-  background-color: #258aff;
+  background-color: #0076A8;
   color: #FFF;
 }
 
 .btn--primary:hover {
-  background-color: rgba(37, 138, 255, 0.8);
+  background-color:#0076A8
   color: #fff;
 }
 
 .btn-outlined--primary {
   background-color: transparent;
-  color: #258aff;
-  border: 2px solid #258aff;
+  color: #0076A8;
+  border: 2px solid #0076A8;
 }
 
 .btn-outlined--primary:hover {
-  background-color: #258aff;
+  background-color: #0076A8;
   color: #fff;
 }
 
