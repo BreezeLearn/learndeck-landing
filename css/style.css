@@ -1560,7 +1560,7 @@ ul.compatible-list li:hover {
 
 
 .snip1214 {
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Karla', sans-serif;
   color: #000000;
   text-align: center;
   font-size: 16px;
@@ -1574,7 +1574,7 @@ ul.compatible-list li:hover {
   position: relative;
   float: left;
   background-color: #ffffff;
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px thin rgba(0, 0, 0, 0.1);
 }
 .snip1214 * {
   -webkit-box-sizing: border-box;
@@ -1601,13 +1601,13 @@ ul.compatible-list li:hover {
   padding: 0px 10px 20px;
 }
 .snip1214 .plan-price {
-  font-family: 'Montserrat', Arial, sans-serif;
+  font-family: 'Karla', sans-serif;
   font-weight: 800;
   font-size: 2.4em;
   color: #34495e;
 }
 .snip1214 .plan-type {
-  opacity: 0.6;
+  opacity: 1.0;
 }
 .snip1214 .plan-features {
   padding: 0;
@@ -1617,7 +1617,7 @@ ul.compatible-list li:hover {
   font-size: 0.8em;
 }
 .snip1214 .plan-features li {
-  border-top: 1px solid #d2d7e2;
+  border-top: 1px thin #d2d7e2;
   padding: 10px 5%;
 }
 .snip1214 .plan-features li:nth-child(even) {
