@@ -1565,12 +1565,12 @@ ul.compatible-list li:hover {
   text-align: center;
   font-size: 16px;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1300px;
   margin: 40px 10px;
 }
 .snip1214 .plan {
   margin: 0;
-  width: 25%;
+  width: 20%;
   position: relative;
   float: left;
   background-color: #ffffff;
@@ -1617,7 +1617,7 @@ ul.compatible-list li:hover {
   font-size: 0.8em;
 }
 .snip1214 .plan-features li {
-  border-top: 1px thin #d2d7e2;
+  border-top: 1px thin #0076A8;
   padding: 10px 5%;
 }
 .snip1214 .plan-features li:nth-child(even) {
@@ -1628,7 +1628,7 @@ ul.compatible-list li:hover {
   opacity: 0.4;
 }
 .snip1214 .plan-select {
-  border-top: 1px solid #d2d7e2;
+  border-top: 1px solid #b1c4d6;
   padding: 10px 10px 0;
 }
 .snip1214 .plan-select a {
@@ -1643,13 +1643,13 @@ ul.compatible-list li:hover {
   display: inline-block;
 }
 .snip1214 .plan-select a:hover {
-  background-color: #46627f;
+  background-color: #0076A8;
 }
 .snip1214 .featured {
   margin-top: -10px;
-  background-color: #34495e;
+  background-color: #0076A8;
   color: #ffffff;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 20px rgba(101, 103, 207, 0.26);
   z-index: 1;
 }
 .snip1214 .featured .plan-title,
@@ -1693,3 +1693,10 @@ ul.compatible-list li:hover {
   }
 }
 
+.PricingMessage{
+  width: 100%;
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+  
+}
