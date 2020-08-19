@@ -1648,6 +1648,7 @@ ul.compatible-list li:hover {
 .snip1214 .featured {
   margin-top: -10px;
   background-color: #0076A8;
+  border-radius: 7px;
   color: #ffffff;
   box-shadow: 0 0 20px rgba(101, 103, 207, 0.26);
   z-index: 1;
@@ -1660,7 +1661,7 @@ ul.compatible-list li:hover {
   padding: 10px 10px 20px;
 }
 .snip1214 .featured .plan-features li {
-  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  border-top: 0px thin rgba(255, 255, 255, 0.4);
 }
 .snip1214 .featured .plan-select {
   padding: 20px 10px 0;
